@@ -1,3 +1,7 @@
-# Table of content
+# Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction](README.md)
+* [View System](chapter1.md)
+* [Activity Manager](activity-manager.md)
+* [Package Manager](package-manager.md)
+
