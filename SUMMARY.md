@@ -4,4 +4,5 @@
 * [View System](chapter1.md)
 * [Activity Manager](activity-manager.md)
 * [Package Manager](package-manager.md)
+  * [Init](package-manager/test.md)
 
